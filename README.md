@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱Aspiring Cloud DevOps Engineer<br>💬Ask me about my [0-100 Days Road to Cloud DevOps journey](https://github.com/bmurrtech/0-100-days-cloud-engineer/blob/main/daily_journal.md)!<br>
+🌱Aspiring Cloud DevOps Engineer<br>💬Ask me about [how I got a tech job in 22 days with 0 work experience](https://github.com/bmurrtech/get-tech-job-in-22-days)!<br>
 
 
 # 💻 Tech Stack:
